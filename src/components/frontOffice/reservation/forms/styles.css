@@ -1,0 +1,23 @@
+html,
+input,
+button {
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+div {
+  margin: 0 0 1rem;
+}
+
+input,
+textarea,
+button {
+  padding: 0.3rem;
+  border: solid 2px black;
+  border-radius: 0.2rem;
+}
+
+textarea {
+  width: 300px;
+  height: 150px;
+}
